@@ -1,0 +1,1 @@
+.ino on arduinon tiedostopaate ja sen tyyppisen tiedoston voi avata notepad++:lla
